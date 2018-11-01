@@ -1,1 +1,1 @@
-python please
+print 'Hello World'
